@@ -4,6 +4,7 @@ Description:
 
 Instructions to  view:
 - Download or clone repo
+- Unzip
 - Run 'index.html'
 
 Collaborators:
