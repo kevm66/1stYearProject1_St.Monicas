@@ -9,3 +9,7 @@ Instructions to  view:
 Author(s):
 - Kevin Maher
 - Thomas Behan
+
+Please note:
+- This is one of the origial versions of www.stmonicas.ie
+- www.stmonicas.ie is now independently maintainted by Natosoft (Thomas Behan)
