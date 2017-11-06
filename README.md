@@ -5,6 +5,6 @@ Instructions to  view:
 - Download or clone repo
 - Run 'index.html'
 
-Author(s)
+Author(s):
 - Kevin Maher
 - Thomas Behan
