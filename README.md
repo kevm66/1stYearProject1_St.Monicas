@@ -6,7 +6,7 @@ Instructions to  view:
 - Download or clone repo
 - Run 'index.html'
 
-Author(s):
+Collaborators:
 - Kevin Maher
 - Thomas Behan
 
