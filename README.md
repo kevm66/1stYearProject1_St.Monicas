@@ -3,6 +3,10 @@ Description:
 - St. Monica’s Community Centre Website
 
 Instructions to  view:
+- Visit: https://kevm66.github.io/1stYearProject1_St.Monicas/
+
+OR
+
 - Download or clone repo
 - Unzip
 - Run 'index.html'
